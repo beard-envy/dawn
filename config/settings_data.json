@@ -132,11 +132,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "0bce5929-5516-43c3-ad4a-4257bc68ac52": {
+            "type": "text",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Beard Envy",
+              "subtext": ""
             }
           },
           "footer-1": {
@@ -146,26 +146,34 @@
               "menu": "footer"
             }
           },
-          "footer-2": {
-            "type": "text",
+          "footer-0": {
+            "type": "link_list",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Navigation",
+              "menu": "footer"
+            }
+          },
+          "be163cd1-66c0-476f-b25b-bf92835ca0db": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Helpful links",
+              "menu": "footer"
             }
           }
         },
         "block_order": [
-          "footer-0",
+          "0bce5929-5516-43c3-ad4a-4257bc68ac52",
           "footer-1",
-          "footer-2"
+          "footer-0",
+          "be163cd1-66c0-476f-b25b-bf92835ca0db"
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
-          "enable_country_selector": false,
-          "enable_language_selector": false,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
           "payment_enable": true,
           "margin_top": 48,
           "padding_top": 36,
