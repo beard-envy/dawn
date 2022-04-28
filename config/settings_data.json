@@ -150,7 +150,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Navigation",
-              "menu": "footer"
+              "menu": "footer-nav"
             }
           },
           "be163cd1-66c0-476f-b25b-bf92835ca0db": {
