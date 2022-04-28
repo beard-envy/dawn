@@ -240,6 +240,11 @@
     "1651175357a39b08ea": {
       "type": "featured-product",
       "blocks": {
+        "d4776143-bb93-402e-b3b1-562bc7cdef81": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "1651175357c6a24c1d-0": {
           "type": "text",
           "disabled": true,
@@ -288,14 +293,10 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "d4776143-bb93-402e-b3b1-562bc7cdef81": {
-          "type": "rating",
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "d4776143-bb93-402e-b3b1-562bc7cdef81",
         "1651175357c6a24c1d-0",
         "1651175357c6a24c1d-1",
         "1651175357c6a24c1d-2",
@@ -303,8 +304,7 @@
         "1651175357c6a24c1d-4",
         "1651175357c6a24c1d-5",
         "1651175357c6a24c1d-6",
-        "1651175357c6a24c1d-7",
-        "d4776143-bb93-402e-b3b1-562bc7cdef81"
+        "1651175357c6a24c1d-7"
       ],
       "settings": {
         "product": "beard-oil",
