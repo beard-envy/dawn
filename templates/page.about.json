@@ -1,14 +1,152 @@
 {
   "sections": {
+    "165118157710db26fa": {
+      "type": "image-banner",
+      "blocks": {
+        "16511815773ba805fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h1"
+          }
+        },
+        "16511815773ba805fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our mission.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16511815773ba805fa-0",
+        "16511815773ba805fa-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/smiling-man-in-blue.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "16511819247b1ec861": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651181923b75ea03e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Better is always better",
+            "text": "<p>We aim to create the best men’s beard oil products on Earth. We want to become the most innovative, customer-focused men’s beard oil company you’ve ever seen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651181923b75ea03e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Creating the future",
+            "text": "<p>We can’t accomplish our goals without the help of a strong, global community of bearded men who share the same vision. That’s why we champion brotherhood, charity, and healthy masculine ideals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651181923b75ea03e-2": {
+          "type": "column",
+          "settings": {
+            "title": "Code of conduct",
+            "text": "<p>We make our own destinies and we present our best selves while doing it. We want our customers to feel confident enough to do the same.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651181923b75ea03e-0",
+        "1651181923b75ea03e-1",
+        "1651181923b75ea03e-2"
+      ],
+      "settings": {
+        "title": "The Beard Envy difference",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651182081e9eb204f": {
+      "type": "image-with-text",
+      "blocks": {
+        "dae24fa6-f3af-489c-834f-32c30eeb00de": {
+          "type": "caption",
+          "settings": {
+            "caption": "Cruelty-free",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "1651182081c765e631-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not tested on animals",
+            "heading_size": "h1"
+          }
+        },
+        "1651182081c765e631-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve always focused on natural ingredients suitable for everyday use. We do not test on animals — we have a soft spot for our furry friends.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "dae24fa6-f3af-489c-834f-32c30eeb00de",
+        "1651182081c765e631-0",
+        "1651182081c765e631-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/old-man-stroking-beard-and-thinking.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "165118157710db26fa",
+    "main",
+    "16511819247b1ec861",
+    "1651182081e9eb204f"
   ]
 }
