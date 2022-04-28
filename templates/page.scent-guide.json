@@ -24,38 +24,28 @@
     "16511795690fdcf4fc": {
       "type": "multicolumn",
       "blocks": {
-        "16511795683f5207e2-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "16511795683f5207e2-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<p>A woodsy intricate blend of sandalwood, vanilla and bergamot to give you a sensual, soft, harmonious, and exotically rich scent that promotes a vivid and euphoric sensation.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "16511795683f5207e2-2": {
+        "16511795683f5207e2-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<p>Lemon, amber with sandalwood and vanilla.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "16511795683f5207e2-0",
         "16511795683f5207e2-1",
-        "16511795683f5207e2-2"
+        "16511795683f5207e2-0"
       ],
       "settings": {
         "title": "",
