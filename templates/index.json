@@ -212,6 +212,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Customer favourites",
         "heading_size": "h2",
@@ -273,23 +274,27 @@
         },
         "1651175357c6a24c1d-4": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "1651175357c6a24c1d-5": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "1651175357c6a24c1d-6": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
         },
         "1651175357c6a24c1d-7": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
