@@ -157,7 +157,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Helpful links",
-              "menu": "footer"
+              "menu": "footer-help"
             }
           }
         },
