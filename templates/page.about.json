@@ -139,7 +139,89 @@
         "color_scheme": "accent-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "16511825516313e523": {
+      "type": "image-with-text",
+      "blocks": {
+        "a70dcc01-2c59-46d8-93e1-305d1d1af412": {
+          "type": "caption",
+          "settings": {
+            "caption": "Brotherhood",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "1651182551ea03649d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Create a global movement for good",
+            "heading_size": "h1"
+          }
+        },
+        "1651182551ea03649d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re all about building a community of beardsmen. It’s a goal we hope to achieve with the help of the Bears — a Brotherhood made up of bearded brothers who want to become the best versions of ourselves and make a global impact through charitable acts.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "a70dcc01-2c59-46d8-93e1-305d1d1af412",
+        "1651182551ea03649d-0",
+        "1651182551ea03649d-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/man-with-red-beard-and-sunglasses.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "1651182756134634da": {
+      "type": "rich-text",
+      "blocks": {
+        "1651182756f4586fc6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready?",
+            "heading_size": "h1"
+          }
+        },
+        "1651182756f4586fc6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you’re looking to add some much-needed moisture, shine, and softness to your beard, then it might be time to join us. We have what you need…<\/p><p>Come, brother.<\/p>"
+          }
+        },
+        "1651182756f4586fc6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Start your journey",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1651182756f4586fc6-0",
+        "1651182756f4586fc6-1",
+        "1651182756f4586fc6-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -147,6 +229,8 @@
     "165118157710db26fa",
     "main",
     "16511819247b1ec861",
-    "1651182081e9eb204f"
+    "1651182081e9eb204f",
+    "16511825516313e523",
+    "1651182756134634da"
   ]
 }
