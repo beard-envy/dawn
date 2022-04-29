@@ -32,6 +32,7 @@
         },
         "3ae7811b-1834-45dd-91b2-f5defdac8de5": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/cart-plus-duotone.png",
             "title": "",
@@ -95,7 +96,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -103,6 +104,101 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651234284fdb117f9": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16512342846bc1f70d-0": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Where will my order ship from and is it free?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16512342846bc1f70d-1": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16512342846bc1f70d-2": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Do I have to pay any customs or import fees?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16512342846bc1f70d-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where is my order?",
+            "icon": "none",
+            "row_content": "<p>After placing your order, you will receive an email from The Beard Envy. In this email will be both an order number and tracking number. If you follow the link attached, you will be able to see where your shipment currently is.<\/p>",
+            "page": ""
+          }
+        },
+        "c54a11d9-26e8-4b5d-8f37-1cc3c17b3d46": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Where is your returns policy?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "a9abe9a1-ae39-4289-b1c4-672a2cb243e9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I've received a faulty item, what do I do?",
+            "icon": "none",
+            "row_content": "<p>We're sorry to hear you have received a faulty item! Please reach out to us and send the following info:<\/p><p>• <strong>Your order number<\/strong><br\/>• <strong>Item name<\/strong><br\/>• <strong>Photos that show<\/strong>:<br\/>  • The fault as clearly as possible<br\/>  • Full-length photo of the item<br\/>  • The Beard Envy logo and label<\/p><p>Don't worry about sending your faulty item back to us yet. Keep hold of it until you've been in touch.<\/p>",
+            "page": ""
+          }
+        },
+        "6f3db7cf-f134-4a2c-90ca-76cc05c8fd21": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My order arrived damaged, what do I do?",
+            "icon": "none",
+            "row_content": "<p>We're sorry to hear your order was damaged upon delivery. Please reach out to our customer support team and they will assist you.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16512342846bc1f70d-0",
+        "16512342846bc1f70d-1",
+        "16512342846bc1f70d-2",
+        "16512342846bc1f70d-3",
+        "c54a11d9-26e8-4b5d-8f37-1cc3c17b3d46",
+        "a9abe9a1-ae39-4289-b1c4-672a2cb243e9",
+        "6f3db7cf-f134-4a2c-90ca-76cc05c8fd21"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Delivery & Returns",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -142,6 +238,7 @@
   "order": [
     "main",
     "1651180095fc849829",
+    "1651234284fdb117f9",
     "16512342742b7eb787"
   ]
 }
