@@ -1,9 +1,9 @@
 {
   "current": {
     "colors_solid_button_labels": "#121212",
-    "colors_accent_1": "#fff",
+    "colors_accent_1": "#62d49f",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#126f43",
     "gradient_accent_2": "",
     "colors_text": "#ffffff",
     "colors_outline_button_labels": "#fff",
@@ -120,6 +120,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/Beard_Envy_Logo.png",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
