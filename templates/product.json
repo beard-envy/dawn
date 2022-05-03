@@ -44,7 +44,7 @@
           "settings": {
             "heading": "Ingredients",
             "icon": "perfume",
-            "content": "",
+            "content": "<p>&lt;span data=\"metafield-oldfactory_notes\"&gt;&lt;\/span&gt;<\/p>",
             "page": ""
           }
         },
