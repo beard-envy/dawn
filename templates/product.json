@@ -40,11 +40,10 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Ingredients",
             "icon": "perfume",
-            "content": "",
+            "content": "<p data=\"variant.metafields.descriptors.olfactory_care\"><\/p>",
             "page": ""
           }
         },
