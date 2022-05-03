@@ -27,7 +27,7 @@
         "16511795683f5207e2-1": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "Secrets Brew",
             "text": "<p>A woodsy intricate blend of sandalwood, vanilla and bergamot to give you a sensual, soft, harmonious, and exotically rich scent that promotes a vivid and euphoric sensation.<\/p>",
             "link_label": "",
             "link": ""
@@ -36,8 +36,17 @@
         "16511795683f5207e2-0": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "Ecstasy Elixir",
             "text": "<p>Lemon, amber with sandalwood and vanilla.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3e094b91-87ca-4535-9670-616ad4cd96b0": {
+          "type": "column",
+          "settings": {
+            "title": "Elements Potion",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -45,7 +54,8 @@
       },
       "block_order": [
         "16511795683f5207e2-1",
-        "16511795683f5207e2-0"
+        "16511795683f5207e2-0",
+        "3e094b91-87ca-4535-9670-616ad4cd96b0"
       ],
       "settings": {
         "title": "",
