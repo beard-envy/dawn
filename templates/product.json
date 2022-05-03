@@ -43,7 +43,7 @@
           "settings": {
             "heading": "Ingredients",
             "icon": "perfume",
-            "content": "<p>{{ product.metafields.descriptors.ingredients | metafield_text }}<\/p>",
+            "content": "",
             "page": ""
           }
         },
