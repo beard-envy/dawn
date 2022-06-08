@@ -40,10 +40,11 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Ingredients",
             "icon": "perfume",
-            "content": "<p data-variant=\"metafields.descriptors.olfactory_care\"><\/p>",
+            "content": "",
             "page": ""
           }
         },
@@ -133,7 +134,7 @@
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
-        "media_size": "large",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
