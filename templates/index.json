@@ -12,9 +12,8 @@
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Shop for what you really want. A better beard!",
             "text_style": "body"
           }
         },
@@ -24,7 +23,7 @@
             "button_label_1": "Shop now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
-            "button_label_2": "The Beard Envy is here",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
           }
